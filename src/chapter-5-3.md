@@ -3,13 +3,6 @@ How ChatGPT Can Be Used for Social Interactions in Social Networks
 
 In this chapter, we will delve into the technical details of ChatGPT and how it can be used for social interactions in social networks.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a conversational AI technology that uses deep learning algorithms to generate human-like text responses to user input. It is based on the GPT (Generative Pre-trained Transformer) architecture developed by OpenAI.
-
-ChatGPT is trained on massive amounts of text data from various sources, including books, articles, and websites. This training allows ChatGPT to understand natural language and generate responses that are contextually relevant and human-like.
-
 How ChatGPT Can Be Used for Social Interactions in Social Networks
 ------------------------------------------------------------------
 

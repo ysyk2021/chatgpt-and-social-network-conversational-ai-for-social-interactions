@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will explore the features and capabilities of ChatGPT, a conversational AI technology that has significant potential for improving social interactions on social networks.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a deep learning algorithm developed by OpenAI that uses natural language processing (NLP) to generate human-like responses to text-based inputs. It is trained on large amounts of data and can generate accurate and relevant responses to a wide range of inquiries and conversations.
-
 Features of ChatGPT
 -------------------
 
