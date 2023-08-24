@@ -1,5 +1,3 @@
-Types of Social Networks and Their Features
-=================================================================================
 
 In this chapter, we will explore the different types of social networks and their unique features.
 

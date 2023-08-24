@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Social Networks
-=========================================================
 
 In this chapter, we will explore the role of AI and chatbots in social networks, how they can improve social interactions, and the benefits of using them.
 

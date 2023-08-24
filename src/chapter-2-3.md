@@ -1,5 +1,3 @@
-Importance of Social Networks in Modern Times
-===================================================================================
 
 In this chapter, we will explore the basics of social networks and their importance in modern times.
 

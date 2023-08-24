@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will explore what ChatGPT is and how it works. ChatGPT is a powerful conversational AI technology that has significant potential for improving social interactions on social networks.
 

@@ -1,5 +1,3 @@
-Explanation of Social Networks and Their Importance
-=================================================================
 
 Social networks have become an integral part of modern life, with billions of users worldwide. These online platforms facilitate communication, sharing of information, and social interactions among individuals or groups. Social networks allow users to create profiles, connect with others, share content, and engage in conversations.
 

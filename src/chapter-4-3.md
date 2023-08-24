@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Social Networks
-================================================================================================================
 
 In this chapter, we will explore the benefits of using AI and chatbots in social networks.
 

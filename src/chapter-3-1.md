@@ -1,5 +1,3 @@
-Factors Affecting Social Interactions
-===================================================================================
 
 In this chapter, we will explore the factors that affect social interactions and contribute to the challenges discussed in Chapter 1.
 

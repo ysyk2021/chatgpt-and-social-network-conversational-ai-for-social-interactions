@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Social Interactions
-===========================================================================================================
 
 In this chapter, we will discuss some best practices for using ChatGPT in social interactions on social networks.
 

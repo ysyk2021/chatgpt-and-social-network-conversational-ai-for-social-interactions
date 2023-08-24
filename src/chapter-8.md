@@ -1,5 +1,3 @@
-Chapter 6: Conclusion
-=====================
 
 Summary of Key Points
 ---------------------

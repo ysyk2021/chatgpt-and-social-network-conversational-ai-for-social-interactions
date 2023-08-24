@@ -1,5 +1,3 @@
-Chapter 1: Basics of Social Networks
-====================================
 
 In this chapter, we will explore the basics of social networks, including their definition, types, features, and importance in modern times.
 
@@ -35,5 +33,4 @@ Conclusion
 ----------
 
 Social networks have become an essential part of modern life, providing a platform for communication, information sharing, business opportunities, and entertainment. By understanding the basics of social networks, their types, features, and importance, social network businesses can develop effective strategies for improving social interactions and driving growth and success in the industry.
-
 

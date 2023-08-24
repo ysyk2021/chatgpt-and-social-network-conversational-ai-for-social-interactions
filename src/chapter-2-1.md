@@ -1,5 +1,3 @@
-Definition of Social Networks
-===================================================================
 
 In this chapter, we will explore the basics of social networks, starting with their definition.
 

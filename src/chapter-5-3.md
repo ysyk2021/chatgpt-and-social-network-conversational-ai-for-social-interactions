@@ -1,5 +1,3 @@
-How ChatGPT Can Be Used for Social Interactions in Social Networks
-====================================================================================================
 
 In this chapter, we will delve into the technical details of ChatGPT and how it can be used for social interactions in social networks.
 

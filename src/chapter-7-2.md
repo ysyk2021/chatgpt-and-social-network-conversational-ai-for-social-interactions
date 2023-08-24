@@ -1,5 +1,3 @@
-Impact of ChatGPT on the Social Networking Industry
-======================================================================================================
 
 In this chapter, we will discuss the potential impact of ChatGPT on the social networking industry.
 

@@ -1,5 +1,3 @@
-Impact of These Challenges on User Experience
-===========================================================================================
 
 In this chapter, we will explore the challenges in social interactions and their impact on user experience.
 

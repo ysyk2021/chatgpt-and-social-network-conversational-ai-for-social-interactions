@@ -1,5 +1,3 @@
-Common Challenges in Social Interactions
-======================================================================================
 
 In this chapter, we will explore the common challenges in social interactions that affect user experience.
 

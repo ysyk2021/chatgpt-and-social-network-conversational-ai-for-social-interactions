@@ -1,5 +1,3 @@
-The Role of ChatGPT in Enhancing Social Interactions
-==================================================================
 
 In recent years, conversational AI has become increasingly prevalent in social networks, with the development of chatbots and virtual assistants. However, these technologies have often been limited in their ability to engage in meaningful conversations with users.
 

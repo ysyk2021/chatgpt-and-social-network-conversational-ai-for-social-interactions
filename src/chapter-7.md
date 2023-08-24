@@ -1,5 +1,3 @@
-Chapter 6: Future of Social Networks with ChatGPT
-=================================================
 
 In this chapter, we will explore the future of social networks with ChatGPT. ChatGPT has already shown significant potential in improving social interactions on social networks, and the future is filled with even more exciting possibilities.
 

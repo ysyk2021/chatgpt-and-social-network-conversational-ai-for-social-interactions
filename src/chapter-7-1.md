@@ -1,5 +1,3 @@
-Potential Advancements in Social Networks with ChatGPT
-=========================================================================================================
 
 In this chapter, we will explore the potential advancements in social networks with ChatGPT and discuss the future of social networks with this technology.
 
