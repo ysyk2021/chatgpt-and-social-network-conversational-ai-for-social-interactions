@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will embark on a journey into the fascinating world of Artificial Intelligence (AI) and Chatbots. These technologies are at the heart of modern social interactions, revolutionizing the way we communicate and connect in the digital age.
 

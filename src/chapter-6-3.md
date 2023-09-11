@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of Companies Successfully Implementing ChatGPT in Social Networks
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into real-world case studies of companies that have effectively integrated ChatGPT into their social networks. These case studies demonstrate the diverse applications and benefits of using conversational AI like ChatGPT to enhance social interactions and user experiences.
 

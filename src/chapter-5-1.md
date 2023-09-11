@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we will provide a comprehensive introduction to ChatGPT, shedding light on its origins, capabilities, and significance in the realm of social network conversational AI.
 

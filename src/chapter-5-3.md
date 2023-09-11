@@ -1,5 +1,4 @@
-Chapter 6: How ChatGPT Can Be Used for Social Interactions in Social Networks
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the multifaceted ways in which ChatGPT and conversational AI can be leveraged to enhance social interactions within various types of social networks.
 

@@ -1,5 +1,4 @@
-Chapter 1: Definition of Social Networks
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will establish a clear understanding of what social networks are in the context of our book, "ChatGPT and Social Network Conversational AI for Social Interactions."
 

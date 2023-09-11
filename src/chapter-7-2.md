@@ -1,5 +1,4 @@
-Chapter 5: Impact of ChatGPT on the Social Networking Industry
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the profound impact that ChatGPT and conversational AI have had on the social networking industry, reshaping the landscape and influencing how social networks operate and evolve.
 

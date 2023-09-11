@@ -1,5 +1,4 @@
-Chapter 7: Potential Advancements in Social Networks with ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting possibilities and potential advancements that ChatGPT and conversational AI can bring to the world of social networks, transforming the way we interact, connect, and engage with others online.
 

@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges in Social Interactions
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the common challenges that users encounter in social interactions within the context of social network platforms. Understanding these challenges is crucial for developing effective solutions using ChatGPT and conversational AI.
 

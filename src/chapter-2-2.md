@@ -1,5 +1,4 @@
-Chapter 4: Types of Social Networks and Their Features
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of social networks that exist in the digital landscape and examine the distinctive features and purposes that define each category.
 

@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the features and capabilities that make ChatGPT a powerful tool for enhancing social interactions within social networks.
 

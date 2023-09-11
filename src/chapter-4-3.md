@@ -1,5 +1,4 @@
-Chapter 2: Benefits of Using AI and Chatbots for Social Networks
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages of incorporating AI and chatbots into social networks. These technologies offer a wide range of benefits that can enhance user experiences, streamline operations, and drive engagement within social networking platforms.
 

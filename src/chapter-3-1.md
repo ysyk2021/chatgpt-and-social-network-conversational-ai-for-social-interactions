@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting Social Interactions
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the multifaceted factors that influence social interactions within the context of social network platforms. Understanding these factors is crucial for harnessing the power of ChatGPT and conversational AI to enhance and improve the dynamics of online communication.
 

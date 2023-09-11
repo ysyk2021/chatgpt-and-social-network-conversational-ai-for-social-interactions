@@ -1,5 +1,4 @@
-Chapter 3: Importance of Social Networks in Modern Times
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significant role that social networks play in contemporary society. Understanding the importance of social networks is essential to appreciate the context in which ChatGPT and conversational AI are applied to enhance social interactions.
 
